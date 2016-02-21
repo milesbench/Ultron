@@ -1,0 +1,24 @@
+c:\users\x\documents\visual studio 2013\Projects\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+c:\users\x\documents\visual studio 2013\Projects\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+c:\users\x\documents\visual studio 2013\Projects\JARVIS\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+c:\users\x\documents\visual studio 2013\Projects\JARVIS\JARVIS\obj\Debug\JARVIS.Form1.resources
+c:\users\x\documents\visual studio 2013\Projects\JARVIS\JARVIS\obj\Debug\JARVIS.Properties.Resources.resources
+c:\users\x\documents\visual studio 2013\Projects\JARVIS\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+c:\users\x\documents\visual studio 2013\Projects\JARVIS\JARVIS\obj\Debug\JARVIS.exe
+c:\users\x\documents\visual studio 2013\Projects\JARVIS\JARVIS\obj\Debug\JARVIS.pdb
+C:\Users\coffe_000\Downloads\JARVIS\JARVIS\obj\Debug\JARVIS.exe
+C:\Users\coffe_000\Downloads\JARVIS\JARVIS\obj\Debug\JARVIS.pdb
+C:\Users\coffe_000\Downloads\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+C:\Users\coffe_000\Downloads\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+C:\Users\coffe_000\Downloads\JARVIS\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Users\coffe_000\Downloads\JARVIS\JARVIS\obj\Debug\JARVIS.Form1.resources
+C:\Users\coffe_000\Downloads\JARVIS\JARVIS\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Users\coffe_000\Downloads\JARVIS\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Users\McPoison1\Documents\Programming\System\JARVIS\JARVIS\obj\Debug\JARVIS.exe
+C:\Users\McPoison1\Documents\Programming\System\JARVIS\JARVIS\obj\Debug\JARVIS.pdb
+C:\Users\McPoison1\Documents\Programming\System\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+C:\Users\McPoison1\Documents\Programming\System\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+C:\Users\McPoison1\Documents\Programming\System\JARVIS\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Users\McPoison1\Documents\Programming\System\JARVIS\JARVIS\obj\Debug\JARVIS.Form1.resources
+C:\Users\McPoison1\Documents\Programming\System\JARVIS\JARVIS\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Users\McPoison1\Documents\Programming\System\JARVIS\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
