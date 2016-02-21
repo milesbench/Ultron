@@ -7,3 +7,6 @@ Written in C#
 -Learn commands
 
 -Kinect Gestures
+
+# Contact
+milesbench@protonmail.ch
